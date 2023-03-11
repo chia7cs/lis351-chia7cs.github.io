@@ -1,0 +1,34 @@
+header {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+p {
+	font-family: Century Gothic;
+	font-size: large;
+	color: purple;
+	text-align:justify;
+}
+
+nav {
+  float: left;
+  width: 30%;
+  height: 250 px; 
+  background: #ccc;
+  padding: 20px;
+}
+
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; 
+}
+
+body {
+  background-color: pink;
+}
